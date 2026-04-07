@@ -1,7 +1,6 @@
 {
-  "location": null,
-  "lang": "ql",
-  "url": "https://github.com/tree-sitter/tree-sitter-ql",
   "semver": false,
-  "parser_version": "1fd627a4e8bff8c24c11987474bd33112bead857"
+  "parser_version": "1fd627a4e8bff8c24c11987474bd33112bead857",
+  "url": "https://github.com/tree-sitter/tree-sitter-ql",
+  "lang": "ql"
 }
